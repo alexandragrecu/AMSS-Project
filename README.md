@@ -1,12 +1,11 @@
 # AMSS-Project
 This project was completed as part of the Software Systems Modeling course, taught by Professor Adrian Buturuga. Semester 1, 2022-2023.
 
-## Students
+## Students - Team 23 
 - Grecu Elena-Alexandra
 - Necula Alexandru-Florin
 - Rotaru Codrut
 
-Team 23 
 
 ## Proposed Project
  We created a recycling application that aims to help people recycle more by seeing the recycling process as a game at the end of which they will receive rewards.
@@ -20,10 +19,10 @@ We have:
 - Three Class Diagrams 
 
 
-## Repository patterns
+## Design patterns
 The backend of the application was built in Node.js using the Express framework, the frontend in React.js and the database is a non-relational one - MongoDB.
 
-Repository patterns:
+Design patterns:
 - Middleware Pattern: We used this pattern [here](https://github.com/alexandragrecu/AMSS-Project/blob/main/backend/controllers/authController.js)
 - Singleton Pattern: We used this pattern [here](https://github.com/alexandragrecu/AMSS-Project/blob/main/backend/server.js)
 
