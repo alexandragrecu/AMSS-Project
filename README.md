@@ -20,11 +20,11 @@ We have:
 
 
 ## Design patterns
-The backend of the application was built in Node.js using the Express framework, the frontend in React.js and the database is a non-relational one - MongoDB.
+The backend of the application was built in Node.js using the Express framework, the frontend was built in React.js and the database is a non-relational one - MongoDB.
 
 Design patterns:
-- Middleware Pattern: We used this pattern [here](https://github.com/alexandragrecu/AMSS-Project/blob/main/backend/controllers/authController.js)
-- Singleton Pattern: We used this pattern [here](https://github.com/alexandragrecu/AMSS-Project/blob/main/backend/server.js)
+- Middleware Pattern: We used this pattern [here](https://github.com/alexandragrecu/AMSS-Project/blob/main/backend/controllers/authController.js).
+- Singleton Pattern: We used this pattern [here](https://github.com/alexandragrecu/AMSS-Project/blob/main/backend/server.js).
 
 
 
