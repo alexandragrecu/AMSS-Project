@@ -29,4 +29,4 @@ Design patterns:
 
 
 
-@ Software Engineering Master, University of Bucharast, Faculty of Mathematics and Computer Science, February 2023
+@ Master of Software Engineering, University of Bucharast, Faculty of Mathematics and Computer Science, February 2023
