@@ -12,12 +12,12 @@ This project was completed as part of the Software Systems Modeling course, taug
 
 ## UML Diagrams
 All the UML diagrams can be found [here](https://miro.com/app/board/o9J_le1A484=/?share_link_id=783683109578). 
-If you can't see the diagrams, zoom out until they will appear on the left side of the screen. 
+If you can't see the diagrams, zoom out until they appear on the left side of the screen. 
 
 We have:
 - One General Diagram - State diagram
-- Three Behavioral Diagrams
-- Three Class Diagrams 
+- Three Behavioral Diagrams - Communication diagrams
+- Three Structural Diagrams - Class diagrams 
 
 
 ## Design patterns
