@@ -11,7 +11,7 @@ This project was completed as part of the Software Systems Modeling course, taug
  We created a recycling application that aims to help people recycle more by seeing the recycling process as a game at the end of which they will receive rewards.
 
 ## UML Diagrams
-All the UML diagrams can be found [here](https://miro.com/app/board/o9J_le1A484=/?share_link_id=783683109578).
+All the UML diagrams can be found [here](https://miro.com/app/board/o9J_le1A484=/?share_link_id=783683109578). If you can't see the diagrams, zoom out. 
 
 We have:
 - One General Diagram - State diagram
