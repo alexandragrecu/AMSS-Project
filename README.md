@@ -1,11 +1,8 @@
 # AMSS-Project
 This project was completed as part of the Software Systems Modeling course, taught by Professor Adrian Buturuga. Semester 1, 2022-2023.
 
-## Students - Team 23 
+## Student
 - Grecu Elena-Alexandra
-- Necula Alexandru-Florin
-- Rotaru Codrut
-
 
 ## Proposed Project
  We created a recycling application that aims to help people recycle more by seeing the recycling process as a game at the end of which they will receive rewards.
